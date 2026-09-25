@@ -12,7 +12,7 @@
 
 ```console
 felipe@verissimo:~$ whoami
-felipe-verissimo
+felipe-borges-de-oliveira-verissimo
 
 felipe@verissimo:~$ finger felipe
 Login: felipe                    Name: Felipe Veríssimo
