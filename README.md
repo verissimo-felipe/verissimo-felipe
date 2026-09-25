@@ -37,7 +37,7 @@ Plan:
 ```console
 felipe@verissimo:~$ tree ~/stack
 /home/felipe/stack
-├── languages ─── python · sql · bash
+├── languages ─── python · sql · bash · javascript · C++
 ├── data ──────── postgresql · dbt · pyspark · databricks
 ├── cloud ─────── aws
 ├── backend ───── django · rest apis
